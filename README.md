@@ -1,4 +1,4 @@
-# SCM Generative AI 
+# Generative AI Dashboard GPT-4
 
 Welcome to the  Generative AI repository for dynamically creating dashboards by leveraging GPT-4! 
 

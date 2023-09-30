@@ -1,6 +1,6 @@
 # SCM Generative AI 
 
-Welcome to the SCM Generative AI repository! 
+Welcome to the  Generative AI repository for dynamically creating dashboards by leveraging GPT-4! 
 
 This project employs the power of artificial intelligence to drive and streamline data analysis processes in various contexts. Our project is built on Dash, a powerful framework for building analytical web applications in pure Python, and uses various callback functions to establish interactivity in the application.
 
